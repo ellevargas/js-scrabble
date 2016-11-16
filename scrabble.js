@@ -62,9 +62,6 @@ Scrabble.prototype.tieBreaker = function(pair1, pair2) {
 }
 
 
-
-
-
 // Scrabble.prototype.helloWorld = function() {
 //   return 'hello world!';
 // };
